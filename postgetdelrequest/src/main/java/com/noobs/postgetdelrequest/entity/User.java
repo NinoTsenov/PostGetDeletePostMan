@@ -23,5 +23,6 @@ import lombok.NoArgsConstructor;
         @Column(unique=true)
         private String email;
         private String password;
+        //komentar
     }
 
