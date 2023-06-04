@@ -24,5 +24,6 @@ import lombok.NoArgsConstructor;
         private String email;
         private String password;
         //komentar
+    //vtori komentar
     }
 
